@@ -2,7 +2,7 @@
 //  MLTestorUITests.swift
 //  MLTestorUITests
 //
-//  Created by June Young on 5/14/20.
+//  Created by toureek on 5/14/20.
 //  Copyright © 2020 com.toureek.ml.test. All rights reserved.
 //
 
